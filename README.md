@@ -12,6 +12,7 @@
 |-------|-------------|------|
 | **AI Dossier** | Explorations, experiments, and research logs related to artificial intelligence and machine learning. | [🔗 View Repo](https://github.com/loneicewolf/AI-Dossier) |
 | **Racing Dossiers** | A collection of speed, engineering, and motorsport-related notes, analysis, and data. | [🔗 View Repo](https://github.com/loneicewolf/Racing-Dossiers) |
+edit: i removed a empty dossier asbout chemistry. I will make another one soon and dive into real spicy stuff! aprox in a few months!
 
 ---
 
